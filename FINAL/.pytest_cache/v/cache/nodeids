@@ -1,0 +1,5 @@
+[
+  "test_project.py::test_create_collage",
+  "test_project.py::test_get_canvasSize",
+  "test_project.py::test_save_collage"
+]
