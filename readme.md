@@ -11,7 +11,7 @@ Using the math library, the image count is then used in a number of calculations
 ### SEARCHQUERY should be your search term for the images, the program will find random ones from the google image search API that match your search term
 ### NUMBER should be a digit 4, 16, etc, which is evenly divisible. The program will send you back to the input stage if it isn't
 
-##After that, all that's left to do is sit back and relax while it generates your image, which will be in the root folder as output.png
+## After that, all that's left to do is sit back and relax while it generates your image, which will be in the root folder as output.png
 images used in the collage are stored in the images folder for easy cleanup, but will be overwritten by subsequent image generations
 BE SURE TO DOWNLOAD your collage when done!
 
@@ -22,4 +22,4 @@ BE SURE TO DOWNLOAD your collage when done!
 ### amusing results: In the test video putting in the one word search of pyramids results in some random conspiracy related images, which I found quite amusing.
 
 ## Overall I'd say my program fulfills my original specifications, which were as follows:
-###My final project will be a dynamic image collage maker that creates a dynamic collage based on user input. The main function would prompt the user for input and manage the flow of the program. Additional functions will be retreiving images from an external API, overlaying them in a collage layout, and then saving the collage to a file.
+### My final project will be a dynamic image collage maker that creates a dynamic collage based on user input. The main function would prompt the user for input and manage the flow of the program. Additional functions will be retreiving images from an external API, overlaying them in a collage layout, and then saving the collage to a file.
